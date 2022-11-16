@@ -1,7 +1,7 @@
 ﻿
 namespace LogInForm
 {
-    partial class Form1
+    partial class LogInPage
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace LogInForm
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LogInPage));
             this.textBoxUsername = new System.Windows.Forms.TextBox();
             this.lblUsernameText = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -45,10 +45,9 @@ namespace LogInForm
             | System.Windows.Forms.AnchorStyles.Right)));
             this.textBoxUsername.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBoxUsername.Font = new System.Drawing.Font("Segoe UI Variable Small", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxUsername.Location = new System.Drawing.Point(727, 222);
-            this.textBoxUsername.Multiline = true;
+            this.textBoxUsername.Location = new System.Drawing.Point(729, 222);
             this.textBoxUsername.Name = "textBoxUsername";
-            this.textBoxUsername.Size = new System.Drawing.Size(327, 23);
+            this.textBoxUsername.Size = new System.Drawing.Size(327, 25);
             this.textBoxUsername.TabIndex = 1;
             this.textBoxUsername.Text = "Your username";
             // 
@@ -89,9 +88,8 @@ namespace LogInForm
             | System.Windows.Forms.AnchorStyles.Right)));
             this.textBoxPassword.Font = new System.Drawing.Font("Segoe UI Variable Small", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxPassword.Location = new System.Drawing.Point(727, 286);
-            this.textBoxPassword.Multiline = true;
             this.textBoxPassword.Name = "textBoxPassword";
-            this.textBoxPassword.Size = new System.Drawing.Size(327, 23);
+            this.textBoxPassword.Size = new System.Drawing.Size(327, 25);
             this.textBoxPassword.TabIndex = 4;
             this.textBoxPassword.Text = "Your password";
             this.textBoxPassword.UseSystemPasswordChar = true;

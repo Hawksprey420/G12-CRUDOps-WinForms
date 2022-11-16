@@ -11,10 +11,10 @@ using System.Data.OleDb;
 
 namespace LogInForm
 {
-    public partial class Form1 : Form
+    public partial class LogInPage : Form
     {
         OleDbConnection connection = new OleDbConnection();
-        public Form1()
+        public LogInPage()
         {
             InitializeComponent();
             connection.ConnectionString = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\PC19\Documents\UserID.mdb";
@@ -36,7 +36,10 @@ namespace LogInForm
 
             if (count == 1)
             {
-                MessageBox.Show("all correct");
+                this.Hide();
+                Dashboard dash = new
+                    Dashboard();
+                dash.ShowDialog();  
             }
 
             else
