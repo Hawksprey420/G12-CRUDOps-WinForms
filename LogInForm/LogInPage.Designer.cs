@@ -45,7 +45,7 @@ namespace LogInForm
             this.textBoxUsername.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.textBoxUsername.Font = new System.Drawing.Font("Segoe UI Variable Small", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxUsername.Location = new System.Drawing.Point(945, 337);
+            this.textBoxUsername.Location = new System.Drawing.Point(945, 328);
             this.textBoxUsername.Name = "textBoxUsername";
             this.textBoxUsername.Size = new System.Drawing.Size(386, 25);
             this.textBoxUsername.TabIndex = 1;
@@ -56,7 +56,7 @@ namespace LogInForm
             // 
             this.lblUsernameText.AutoSize = true;
             this.lblUsernameText.Font = new System.Drawing.Font("Segoe UI Variable Display", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUsernameText.Location = new System.Drawing.Point(938, 308);
+            this.lblUsernameText.Location = new System.Drawing.Point(938, 299);
             this.lblUsernameText.Name = "lblUsernameText";
             this.lblUsernameText.Size = new System.Drawing.Size(233, 26);
             this.lblUsernameText.TabIndex = 2;
@@ -66,7 +66,7 @@ namespace LogInForm
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI Variable Display", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(938, 372);
+            this.label1.Location = new System.Drawing.Point(938, 363);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(214, 26);
             this.label1.TabIndex = 5;
@@ -77,7 +77,8 @@ namespace LogInForm
             this.textBoxPassword.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.textBoxPassword.Font = new System.Drawing.Font("Segoe UI Variable Small", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxPassword.Location = new System.Drawing.Point(943, 401);
+            this.textBoxPassword.Location = new System.Drawing.Point(943, 392);
+            this.textBoxPassword.Margin = new System.Windows.Forms.Padding(10);
             this.textBoxPassword.Name = "textBoxPassword";
             this.textBoxPassword.Size = new System.Drawing.Size(386, 25);
             this.textBoxPassword.TabIndex = 4;
@@ -93,6 +94,7 @@ namespace LogInForm
             this.button1.Font = new System.Drawing.Font("Segoe UI Variable Small", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(943, 432);
             this.button1.Name = "button1";
+            this.button1.Padding = new System.Windows.Forms.Padding(10);
             this.button1.Size = new System.Drawing.Size(197, 30);
             this.button1.TabIndex = 6;
             this.button1.Text = "Sign in to the system";
@@ -124,6 +126,7 @@ namespace LogInForm
             // LogInPage
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit;
+            this.AutoSize = true;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(1343, 721);
             this.Controls.Add(this.label2);
@@ -136,7 +139,7 @@ namespace LogInForm
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "LogInPage";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "  PNS Enrollment System";
+            this.Text = " ";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
