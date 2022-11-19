@@ -118,8 +118,38 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="picture1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\picture1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="de4c1715fdc2ded5798c316d635723b3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\de4c1715fdc2ded5798c316d635723b3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="__kamisato_ayato_genshin_impact_drawn_by_xude__62fb76e51d4a382a31205a41a468087b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\__kamisato_ayato_genshin_impact_drawn_by_xude__62fb76e51d4a382a31205a41a468087b.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="be601d063545553d9d96c5f77c4b7927" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\be601d063545553d9d96c5f77c4b7927.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="__kamisato_ayaka_and_kaedehara_kazuha_genshin_impact_drawn_by_lumi250__36288a0b4d5426a263ca1093a7ec312f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\__kamisato_ayaka_and_kaedehara_kazuha_genshin_impact_drawn_by_lumi250__36288a0b4d5426a263ca1093a7ec312f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="2h2qhm4a4jo71" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\2h2qhm4a4jo71.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="__eula_and_amber_genshin_impact_drawn_by_ladywaltz__f14a42963a14f1e098853849dd97aab4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\__eula_and_amber_genshin_impact_drawn_by_ladywaltz__f14a42963a14f1e098853849dd97aab4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="__alhaitham_genshin_impact_drawn_by_0jae__221ee8845e36917fb7de57ce65335829" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\__alhaitham_genshin_impact_drawn_by_0jae__221ee8845e36917fb7de57ce65335829.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="__yelan_genshin_impact_drawn_by_torino_aqua__e18c2cb5264f74288910a491f4438974" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\__yelan_genshin_impact_drawn_by_torino_aqua__e18c2cb5264f74288910a491f4438974.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="__aether_sangonomiya_kokomi_kaedehara_kazuha_gorou_and_teppei_genshin_impact_drawn_by_hitohachan__70fb0a00e1aa457b5eb39f3ca1d0a856" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\__aether_sangonomiya_kokomi_kaedehara_kazuha_gorou_and_teppei_genshin_impact_drawn_by_hitohachan__70fb0a00e1aa457b5eb39f3ca1d0a856.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="__nahida_and_crystalfly_genshin_impact_drawn_by_ekidona__579f1725651a0edbc25af4b7a49f2d4d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\__nahida_and_crystalfly_genshin_impact_drawn_by_ekidona__579f1725651a0edbc25af4b7a49f2d4d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="92466345_p1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\92466345_p1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -127,19 +157,13 @@
   <data name="__kamisato_ayaka_genshin_impact_drawn_by_dinhosaur__de5dbf4911bec5ea81171dd04fca79dd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\__kamisato_ayaka_genshin_impact_drawn_by_dinhosaur__de5dbf4911bec5ea81171dd04fca79dd.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="picture1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\picture1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="__alhaitham_genshin_impact_drawn_by_0jae__221ee8845e36917fb7de57ce65335829" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\__alhaitham_genshin_impact_drawn_by_0jae__221ee8845e36917fb7de57ce65335829.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="__aether_sangonomiya_kokomi_kaedehara_kazuha_gorou_and_teppei_genshin_impact_drawn_by_hitohachan__70fb0a00e1aa457b5eb39f3ca1d0a856" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\__aether_sangonomiya_kokomi_kaedehara_kazuha_gorou_and_teppei_genshin_impact_drawn_by_hitohachan__70fb0a00e1aa457b5eb39f3ca1d0a856.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="__zhongli_and_hu_tao_genshin_impact_drawn_by_pitohuibloodbend__48e73b010932c26ae5a36fbfd47cbd22" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\__zhongli_and_hu_tao_genshin_impact_drawn_by_pitohuibloodbend__48e73b010932c26ae5a36fbfd47cbd22.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="__kamisato_ayaka_and_kaedehara_kazuha_genshin_impact_drawn_by_lumi250__36288a0b4d5426a263ca1093a7ec312f" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\__kamisato_ayaka_and_kaedehara_kazuha_genshin_impact_drawn_by_lumi250__36288a0b4d5426a263ca1093a7ec312f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="de4c1715fdc2ded5798c316d635723b31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\de4c1715fdc2ded5798c316d635723b31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="__kaedehara_kazuha_genshin_impact_drawn_by_asagizuisen__78b3e3f6ab4f377f387c113c2845e1ab" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\__kaedehara_kazuha_genshin_impact_drawn_by_asagizuisen__78b3e3f6ab4f377f387c113c2845e1ab.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

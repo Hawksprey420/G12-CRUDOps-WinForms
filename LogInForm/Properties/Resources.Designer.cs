@@ -10,8 +10,9 @@
 
 namespace LogInForm.Properties {
     using System;
-    
-    
+    using System.Drawing;
+
+
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -23,7 +24,8 @@ namespace LogInForm.Properties {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
-        
+        internal static Image __yelan_genshin_impact_drawn_by_torino_aqua__e18c2cb5264f74288910a491f4438974;
+        internal static Image _kaedehara_kazuha_genshin_impact_drawn_by_asagizuisen__78b3e3f6ab4f377f387c113c2845e1ab;
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
@@ -31,7 +33,9 @@ namespace LogInForm.Properties {
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
         internal Resources() {
         }
-        
+
+        public static Image be601d063545553d9d96c5f77c4b7927 { get; internal set; }
+
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
