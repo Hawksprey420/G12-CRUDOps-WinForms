@@ -19,7 +19,7 @@ namespace LogInForm.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -57,6 +57,80 @@ namespace LogInForm.Properties {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap @__aether_sangonomiya_kokomi_kaedehara_kazuha_gorou_and_teppei_genshin_impact_drawn_by_hitohachan__70fb0a00e1aa457b5eb39f3ca1d0a856 {
+            get {
+                object obj = ResourceManager.GetObject("__aether_sangonomiya_kokomi_kaedehara_kazuha_gorou_and_teppei_genshin_impact_draw" +
+                        "n_by_hitohachan__70fb0a00e1aa457b5eb39f3ca1d0a856", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap @__alhaitham_genshin_impact_drawn_by_0jae__221ee8845e36917fb7de57ce65335829 {
+            get {
+                object obj = ResourceManager.GetObject("__alhaitham_genshin_impact_drawn_by_0jae__221ee8845e36917fb7de57ce65335829", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap @__kamisato_ayaka_and_kaedehara_kazuha_genshin_impact_drawn_by_lumi250__36288a0b4d5426a263ca1093a7ec312f {
+            get {
+                object obj = ResourceManager.GetObject("__kamisato_ayaka_and_kaedehara_kazuha_genshin_impact_drawn_by_lumi250__36288a0b4d" +
+                        "5426a263ca1093a7ec312f", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap @__kamisato_ayaka_genshin_impact_drawn_by_dinhosaur__de5dbf4911bec5ea81171dd04fca79dd {
+            get {
+                object obj = ResourceManager.GetObject("__kamisato_ayaka_genshin_impact_drawn_by_dinhosaur__de5dbf4911bec5ea81171dd04fca7" +
+                        "9dd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap @__zhongli_and_hu_tao_genshin_impact_drawn_by_pitohuibloodbend__48e73b010932c26ae5a36fbfd47cbd22 {
+            get {
+                object obj = ResourceManager.GetObject("__zhongli_and_hu_tao_genshin_impact_drawn_by_pitohuibloodbend__48e73b010932c26ae5" +
+                        "a36fbfd47cbd22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _2h2qhm4a4jo71 {
+            get {
+                object obj = ResourceManager.GetObject("2h2qhm4a4jo71", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _92466345_p1 {
+            get {
+                object obj = ResourceManager.GetObject("92466345_p1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         

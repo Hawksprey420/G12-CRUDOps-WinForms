@@ -113,5 +113,26 @@
   <ItemGroup>
     <None Include="Resources\picture1.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\__kamisato_ayaka_genshin_impact_drawn_by_dinhosaur__de5dbf4911bec5ea81171dd04fca79dd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\__zhongli_and_hu_tao_genshin_impact_drawn_by_pitohuibloodbend__48e73b010932c26ae5a36fbfd47cbd22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\__aether_sangonomiya_kokomi_kaedehara_kazuha_gorou_and_teppei_genshin_impact_drawn_by_hitohachan__70fb0a00e1aa457b5eb39f3ca1d0a856.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\92466345_p1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\__alhaitham_genshin_impact_drawn_by_0jae__221ee8845e36917fb7de57ce65335829.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2h2qhm4a4jo71.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\__kamisato_ayaka_and_kaedehara_kazuha_genshin_impact_drawn_by_lumi250__36288a0b4d5426a263ca1093a7ec312f.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
