@@ -17,7 +17,7 @@ namespace LogInForm
         public LogInPage()
         {
             InitializeComponent();
-            connection.ConnectionString = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\PC19\Documents\UserID.mdb";
+            connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Hawkspreyy\Desktop\Database.mdb";
         }
 
         private void button1_Click(object sender, EventArgs e)
